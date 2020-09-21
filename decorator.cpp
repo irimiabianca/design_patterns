@@ -1,6 +1,18 @@
 #include <iostream>
 #include <string>
+//pun niste commuri
+//bla 
+//bla
 
+//make a new class on brach
+
+
+class MyClass
+{
+
+protected:
+    string name;
+};
 using namespace std;
 
 
