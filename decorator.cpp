@@ -2,6 +2,14 @@
 #include <string>
 
 using namespace std;
+//including a class just for the sake of testing branches
+class Test
+{
+public:
+    Test(string name) : name{name} {}
+protected:
+    tring name;
+};
 
 
 class Vehicle
